@@ -1,0 +1,15 @@
+{
+  "sign up": "sign up",
+  "email": "email",
+  "password": "password",
+  "password confirm": "password confirmation",
+  "aleardy have an account": "aleardy have an account ? ",
+  "login": "login",
+  "forget password": "forget password",
+  "create an account": "create an account",
+  "reset password": "reset password",
+  "profile": "profile",
+  "logout": "log out",
+  "update profile": "update profile",
+  "search city": "search city"
+}

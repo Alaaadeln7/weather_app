@@ -1,0 +1,40 @@
+.login {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(
+    to right,
+    #0072f5,
+    rgba(0, 255, 195, 0.581)
+  );
+  .card {
+    /* width: clamp(150px, 200px, 250px); */
+    width: 350px;
+    @media (max-width: 768px) {
+      width: auto;
+    }
+    background: rgba(255, 255, 255, 0.323);
+    border: none;
+    h2 {
+      color: white;
+    }
+    label {
+      color: white;
+    }
+    input {
+      background: transparent;
+      border: 1px solid #fff;
+      caret-color: white;
+      color: white;
+    }
+  }
+  a {
+    color: white;
+  }
+  .ask {
+    color: white;
+  }
+}
