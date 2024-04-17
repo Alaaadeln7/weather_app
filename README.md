@@ -8,4 +8,4 @@ i use to icons => react-icons
 i use to google maps => @react-google-maps/api
 i use to auth => firebase
 you can show it in
-[weather app](exweatherapp.surge.sh)
+exweatherapp.surge.sh
